@@ -70,12 +70,12 @@ Follow these steps to set up and run the chatbot locally:
 *Snapshot showing user input and chatbot response.*
 
 ### **Feedback Mechanism**
-![Feedback](path/to/snapshot2.png)  
+![Feedback](https://github.com/Srinivas-Vid/Implementation-of-Chatbot-using-NLP/blob/main/Feedback%20Mechanism.png)  
 *Snapshot demonstrating the feedback feature.*
 
-### **Conversation History**
-![Conversation History](path/to/snapshot3.png)  
-*Snapshot of the conversation history feature.*
+### **About**
+![About](https://github.com/Srinivas-Vid/Implementation-of-Chatbot-using-NLP/blob/main/About.png)  
+*Snapshot of the about feature.*
 
 ---
 
