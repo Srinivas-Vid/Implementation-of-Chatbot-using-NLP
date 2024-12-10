@@ -1,0 +1,5 @@
+User Input,Chatbot Response,Intent Tag,Timestamp
+Hello,Hi there! How can I help you?,greeting,10-12-2024 09:21
+Can you assist?,"Sure, what do you need help with?",help,10-12-2024 09:21
+Thank you,You're welcome! Anything else?,thanks,10-12-2024 09:21
+Goodbye,Goodbye! Have a great day!,farewell,10-12-2024 09:21
