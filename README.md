@@ -66,7 +66,7 @@ Follow these steps to set up and run the chatbot locally:
 
 ## **Snapshots**
 ### **Chat Interface**
-![Chat Interface](path/to/snapshot1.png)  
+![Chat Interface](https://github.com/Srinivas-Vid/Implementation-of-Chatbot-using-NLP/blob/main/User%20Interface.png)  
 *Snapshot showing user input and chatbot response.*
 
 ### **Feedback Mechanism**
