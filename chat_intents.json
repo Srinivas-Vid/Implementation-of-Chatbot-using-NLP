@@ -1,0 +1,238 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey there",
+            "Good morning",
+            "Good evening"
+        ],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! What would you like to know?",
+            "Hey! How's it going?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Goodbye",
+            "See you later",
+            "Bye",
+            "Take care"
+        ],
+        "responses": [
+            "Goodbye! Have a great day!",
+            "See you next time!",
+            "Bye! Feel free to chat again anytime."
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "Much appreciated",
+            "Thanks a lot"
+        ],
+        "responses": [
+            "You're welcome!",
+            "Happy to help!",
+            "No problem at all!"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What can you do?",
+            "Who are you?",
+            "Tell me about yourself",
+            "What is your purpose?"
+        ],
+        "responses": [
+            "I am a chatbot designed to assist you with a variety of tasks and queries.",
+            "I’m here to provide information and make your life easier!",
+            "Think of me as your virtual assistant for all kinds of questions."
+        ]
+    },
+    {
+        "tag": "weather",
+        "patterns": [
+            "What's the weather like?",
+            "How's the weather today?",
+            "Will it rain today?",
+            "Is it sunny outside?"
+        ],
+        "responses": [
+            "I can't fetch real-time weather data right now, but you can check a weather app for the most accurate forecast.",
+            "For weather updates, I recommend checking reliable apps or websites."
+        ]
+    },
+    {
+        "tag": "time",
+        "patterns": [
+            "What's the time?",
+            "Can you tell me the current time?",
+            "What time is it?"
+        ],
+        "responses": [
+            "I can't provide real-time data, but you can check your device for the current time.",
+            "Time flies, doesn't it? Check your watch for the exact time!"
+        ]
+    },
+    {
+        "tag": "joke",
+        "patterns": [
+            "Tell me a joke",
+            "Make me laugh",
+            "Do you know any jokes?"
+        ],
+        "responses": [
+            "Why don’t scientists trust atoms? Because they make up everything!",
+            "What do you call fake spaghetti? An impasta!",
+            "Why was the math book sad? It had too many problems!"
+        ]
+    },
+    {
+        "tag": "movies",
+        "patterns": [
+            "Can you recommend a movie?",
+            "What are the best movies?",
+            "Suggest a movie to watch"
+        ],
+        "responses": [
+            "You could watch 'The Shawshank Redemption', 'Inception', or 'The Godfather'.",
+            "How about a classic like 'Forrest Gump' or a thriller like 'Gone Girl'?"
+        ]
+    },
+    {
+        "tag": "food",
+        "patterns": [
+            "What's your favorite food?",
+            "Do you like pizza?",
+            "What should I cook today?"
+        ],
+        "responses": [
+            "I don’t eat, but I hear pizza is always a great choice!",
+            "How about trying a new recipe like pasta or stir-fry?",
+            "You can't go wrong with something simple and delicious like a sandwich or salad."
+        ]
+    },
+    {
+        "tag": "career",
+        "patterns": [
+            "How do I find a job?",
+            "What's the best way to improve my career?",
+            "How can I prepare for an interview?"
+        ],
+        "responses": [
+            "Networking and updating your resume are great starting points for job hunting.",
+            "Prepare for interviews by researching the company and practicing common questions.",
+            "Focus on building your skills and gaining experience in your field."
+        ]
+    },
+    {
+        "tag": "education",
+        "patterns": [
+            "Tell me about education",
+            "Why is education important?",
+            "How can I study effectively?"
+        ],
+        "responses": [
+            "Education is key to personal and professional growth.",
+            "Effective study involves setting goals, staying organized, and taking regular breaks.",
+            "Knowledge is power! Keep learning and challenging yourself."
+        ]
+    },
+    {
+        "tag": "health",
+        "patterns": [
+            "How do I stay healthy?",
+            "Give me health tips",
+            "What's the best way to stay fit?"
+        ],
+        "responses": [
+            "Stay healthy by eating a balanced diet, exercising regularly, and getting enough sleep.",
+            "Hydration and mindfulness can also contribute to overall wellness.",
+            "Fitness is about consistency—start small and build up!"
+        ]
+    },
+    {
+        "tag": "technology",
+        "patterns": [
+            "Tell me about the latest technology",
+            "What's new in tech?",
+            "Can you explain AI?"
+        ],
+        "responses": [
+            "Technology is advancing rapidly! AI, IoT, and 5G are hot topics these days.",
+            "AI, or artificial intelligence, enables machines to simulate human intelligence and perform tasks.",
+            "For the latest updates, follow tech blogs and news platforms!"
+        ]
+    },
+    {
+        "tag": "travel",
+        "patterns": [
+            "Where should I travel?",
+            "What's a good vacation spot?",
+            "Can you recommend a travel destination?"
+        ],
+        "responses": [
+            "For beaches, try Bali or the Maldives. For history, visit Rome or Kyoto!",
+            "Traveling is a great way to relax and explore new cultures. What kind of destination do you like?"
+        ]
+    },
+    {
+        "tag": "coding",
+        "patterns": [
+            "How do I start coding?",
+            "What's the best programming language?",
+            "Can you help me learn Python?"
+        ],
+        "responses": [
+            "Start with a beginner-friendly language like Python. There are plenty of online resources to help!",
+            "Focus on problem-solving skills and try platforms like Codecademy or LeetCode.",
+            "The best programming language depends on your goals. Python is great for beginners!"
+        ]
+    },
+    {
+        "tag": "finance",
+        "patterns": [
+            "How do I save money?",
+            "What's the best way to invest?",
+            "Can you explain budgeting?"
+        ],
+        "responses": [
+            "Budgeting starts with tracking your income and expenses. Allocate funds wisely.",
+            "Consider investing in stocks, mutual funds, or real estate after thorough research.",
+            "Saving small amounts regularly can lead to big results over time."
+        ]
+    },
+    {
+        "tag": "fitness",
+        "patterns": [
+            "How do I start working out?",
+            "What's a good exercise routine?",
+            "How can I stay motivated to exercise?"
+        ],
+        "responses": [
+            "Start with a mix of cardio and strength training. Set realistic goals to stay motivated.",
+            "Consistency is key—find a workout you enjoy and make it part of your routine.",
+            "Exercising with a friend can make it more fun and help you stay accountable!"
+        ]
+    },
+    {
+        "tag": "books",
+        "patterns": [
+            "Can you recommend a book?",
+            "What are some good books to read?",
+            "Tell me about your favorite books"
+        ],
+        "responses": [
+            "I recommend 'To Kill a Mockingbird', '1984', and 'The Alchemist'.",
+            "Fiction, self-help, or biographies—what's your preference?",
+            "Books are a gateway to knowledge and imagination. Happy reading!"
+        ]
+    }
+]
