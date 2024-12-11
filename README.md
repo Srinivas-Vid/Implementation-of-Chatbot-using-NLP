@@ -34,7 +34,8 @@ Follow these steps to set up and run the chatbot locally:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Srinivas-Vid/Implementation-of-Chatbot-using-NLP.git
-   cd YourChatbotProject
+   cd Implementation-of-Chatbot-using-NLP
+
    ```
 
 2. **Install Dependencies**
