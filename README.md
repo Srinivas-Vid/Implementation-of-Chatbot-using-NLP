@@ -59,7 +59,7 @@ Follow these steps to set up and run the chatbot locally:
 | File/Folder      | Description                                       |
 |------------------|---------------------------------------------------|
 | `my_app.py`         | Main Python file containing the chatbot logic.    |
-| `intents.json`   | JSON file containing intents, patterns, and responses. |
+| `chat_intents.json`   | JSON file containing intents, patterns, and responses. |
 | `README.md`      | Project documentation.                           |
 | `requirements.txt` | List of dependencies to install.                |
 
