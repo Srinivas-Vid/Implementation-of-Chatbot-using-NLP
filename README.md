@@ -94,5 +94,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ---
 
 ## **Author**
-Developed by **[SRINIVAS ERRAMALLA]**.  
-For any queries or suggestions, feel free to reach out at [srinivaserramalla5@gmail.com].
+Developed by **SRINIVAS ERRAMALLA**.  
+For any queries or suggestions, feel free to reach out at srinivaserramalla5@gmail.com.
