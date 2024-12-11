@@ -1,6 +1,6 @@
 # Implementation-of-Chatbot-using-NLP
 
-# **Enhanced Chatbot Using NLP**
+# **Chatbot Using NLP**
 
 ## **Project Overview**
 This project is a general-purpose chatbot built using **Natural Language Processing (NLP)** and **Machine Learning** techniques. The chatbot leverages **TF-IDF vectorization** for feature extraction and **Logistic Regression** for intent classification. It is implemented with a modular design and features a user-friendly web interface built using **Streamlit**.
